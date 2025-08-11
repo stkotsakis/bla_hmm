@@ -17,8 +17,7 @@ SignalP v5
 
 USAGE INSTRUCTIONS
 
-1. BLA_HMM:
-The main program scanning a genome for beta-lactamase orthologous genes
+1. BLA_HMM: Identification of beta-lactamase orthologous genes in prokaryotic genomes
 
 Copy the bla_hmm folder to your home directory
 
