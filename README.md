@@ -21,7 +21,7 @@ USAGE INSTRUCTIONS
 
 Copy the bla_hmm folder to your home directory
 
-the program takes as input fasta files and outputs detected beta-lactamases from the known molecular classes.
+the program takes as input fasta files and scans the six frame translation (obtained using the https://cgpdb.ucdavis.edu/DNA_SixFrames_Translation/seqs_processor_and_translator_bin_V118_AGCT.py script). In the output folder the detected beta-lactamases from the known molecular classes can be found.
 
 Usage:
 
